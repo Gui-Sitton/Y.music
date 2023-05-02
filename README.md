@@ -27,7 +27,7 @@ A primeira hipótese é totalmente aceita.
 
 2. As preferências musicais não variam significativamente ao decorrer da semana tanto em Springfield como em Shelbyville. Nós podemos ver pequenas diferenças na ordem nas segundas-feiras, mas em Springfield e Shelbyville, as pessoas escutam mais música pop.
 
-Então nós podemos aceitar essa hipótese. 
+Então podemos aceitar essa hipótese. Devemos também ter em mente que o resultado pode ter sido diferente se não fosse pelos valores ausentes.
 
 3. Acontece que preferências musicais dos usuários de Springfield e Shelbyville são bastante parecidas.
 
