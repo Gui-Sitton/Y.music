@@ -1,5 +1,5 @@
 # Y.music
-Sou aluno da Practicum no curso de Ciência de Dados, estou divulgando projetos que desenvolvi la para meu portifólio. Este é o primeiro projeto que desenvolvi.
+Sou aluno da Practicum no curso de Ciência de Dados, estou divulgando projetos que desenvolvi para meu portifólio. Este é o primeiro projeto.
 
 Neste projeto comparei as preferências musicais dos habitantes de Springfild e Shelbyville. Examinei os dados reais do Y.Music para testar hipóteses e comparar os comportamentos dos usuários dessas duas cidades.
 
@@ -8,7 +8,7 @@ Neste projeto comparei as preferências musicais dos habitantes de Springfild e 
 2. Durante as manhãs de segunda-feira, os moradores de Springfield e Shelbyville escutam diferentes gêneros. Isso também é verdadeiro para noites de sexta-feira.
 3. Os ouvintes de Springfield e Shelbyville têm diferentes preferências. Em Springfield, as pessoas preferem pop, enquanto Shelbyville tem mais fãs de rap.
 
-**Descrição das colunas:**
+**Descrição das Colunas:**
 * 'userID' — identificador do usuário
 * 'Track' — título da faixa
 * 'artist' — nome do artista
@@ -19,7 +19,7 @@ Neste projeto comparei as preferências musicais dos habitantes de Springfild e 
 
 **Conclusões**
 
-Depois de analisar os dados, nós concluímos:
+Depois de analisar os dados, conclui que:
 
 1. A atividade do usuário em Springfield e Shelbyville depende do dia da semana, embora as cidades variam de formas diferentes. 
 
