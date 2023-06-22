@@ -1,5 +1,5 @@
 # Y.music
-Sou aluno da Practicum no curso de Ciência de Dados, estou divulgando projetos que desenvolvi para meu portifólio. Este é o primeiro projeto.
+Sou aluno da TripleTen no curso de Ciência de Dados, estou divulgando projetos que desenvolvi para meu portifólio. Este é o primeiro projeto.
 
 Neste projeto comparei as preferências musicais dos habitantes de Springfild e Shelbyville. Examinei os dados reais do Y.Music para testar hipóteses e comparar os comportamentos dos usuários dessas duas cidades.
 
