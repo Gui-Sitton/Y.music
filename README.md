@@ -1,34 +1,33 @@
 # Y.music
-Sou aluno da TripleTen no curso de Ciência de Dados, estou divulgando projetos que desenvolvi para meu portifólio. Este é o primeiro projeto.
 
-Neste projeto comparei as preferências musicais dos habitantes de Springfild e Shelbyville. Examinei os dados reais do Y.Music para testar hipóteses e comparar os comportamentos dos usuários dessas duas cidades.
+In this project I compared the musical preferences of the citizens of Springfild and Shelbyville. I examined real data from Y.Music to test hypotheses and compare the behavior of users in these two cities.
 
-**Hipóteses**
-1. A atividade dos usuários é diferente dependendo do dia da semana e da cidade.
-2. Durante as manhãs de segunda-feira, os moradores de Springfield e Shelbyville escutam diferentes gêneros. Isso também é verdadeiro para noites de sexta-feira.
-3. Os ouvintes de Springfield e Shelbyville têm diferentes preferências. Em Springfield, as pessoas preferem pop, enquanto Shelbyville tem mais fãs de rap.
+**Hypotheses**
+1. User activity is different depending on the day of the week and the city.
+2. During Monday mornings, residents of Springfield and Shelbyville listen to different genres. This is also true for Friday nights.
+3. Listeners in Springfield and Shelbyville have different preferences. In Springfield, people prefer pop, while Shelbyville has more rap fans.
 
-**Descrição das Colunas:**
-* 'userID' — identificador do usuário
-* 'Track' — título da faixa
-* 'artist' — nome do artista
-* 'genre' — gênero de música
-* 'City' — cidade do usuário
-* 'time' — o tempo exato que a faixa foi reproduzida
-* 'Day' — dia da semana
+**Column Descriptions**
+* 'userID' - user identifier
+* 'Track' - track title
+* 'artist' - artist name
+* 'genre' - genre of music
+* 'city' - user's city
+* 'time' - the exact time the track was played
+* 'Day' - day of the week
 
-**Conclusões**
+**Conclusions**
 
-Depois de analisar os dados, conclui que:
+After analyzing the data, I concluded that:
 
-1. A atividade do usuário em Springfield e Shelbyville depende do dia da semana, embora as cidades variam de formas diferentes. 
+1. User activity in Springfield and Shelbyville depends on the day of the week, although the cities vary in different ways. 
 
-A primeira hipótese é totalmente aceita.
+The first hypothesis is fully accepted.
 
-2. As preferências musicais não variam significativamente ao decorrer da semana tanto em Springfield como em Shelbyville. Nós podemos ver pequenas diferenças na ordem nas segundas-feiras, mas em Springfield e Shelbyville, as pessoas escutam mais música pop.
+2. Music preferences do not vary significantly over the course of the week in either Springfield or Shelbyville. We can see small differences in the order on Mondays, but in Springfield and Shelbyville, people listen to more pop music.
 
-Então podemos aceitar essa hipótese. Devemos também ter em mente que o resultado pode ter sido diferente se não fosse pelos valores ausentes.
+So we can accept this hypothesis. We should also bear in mind that the result might have been different if it hadn't been for the missing values.
 
-3. Acontece que preferências musicais dos usuários de Springfield e Shelbyville são bastante parecidas.
+3. It turns out that the musical preferences of users in Springfield and Shelbyville are quite similar.
 
-A terceira hipótese foi rejeitada. Se há alguma diferença nas preferências, ela não pode ser vista nesses dados.
+The third hypothesis was rejected. If there is a difference in preferences, it can't be seen in this data.
